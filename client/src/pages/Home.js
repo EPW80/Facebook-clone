@@ -90,7 +90,7 @@ const Home = () => {
   const updateUserName = () => {
     dispatch({
       type: 'LOGGED_IN_USER',
-      payload: 'Ryan Dhungel'
+      payload: 'Erik Williams'
     });
   };
 
