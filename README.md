@@ -31,7 +31,7 @@ This project is a social media app where users can share their thoughts as well 
 
 ![screenshot](./client/public/erikshot.png)
 ![screenshot](./client/public/anthonyshot.png)
-![screenshot](./client/public/angelshot.png)
+![screenshot](./client/public/angelshot.jpg)
 
 
 ### TODO:
