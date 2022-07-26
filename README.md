@@ -19,6 +19,21 @@ This project is a social media app where users can share their thoughts as well 
 6. `Bootstrap` is used for building UI and this website is Responsive for Desktop Devices and Tabs only (I am working on for responsiveness on small Devices)
 7. `Heroku` is used for hosting the backend code and frontend as well.
 
+ - Run this command
+
+     ```
+     $ npm run server // to start only Backend server
+
+     $ npm run Client // to start React Development server only
+
+     
+### Website Preview
+
+![screenshot](./client/public/erikshot.png)
+![screenshot](./client/public/anthonyshot.png)
+![screenshot](./client/public/angelshot.png)
+
+
 ### TODO:
 
 - Email Verification by Google API
