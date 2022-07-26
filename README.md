@@ -61,5 +61,5 @@ Please feel free to contact me if you need any further information:
 - [Anthony Ledesma](anthonyledesma12@yahoo.com)
 - [Github Profile](https://github.com/Anchoviess)
     <br>
-- [Email](sandovalangel10@hotmail.com)
+- [Angel Sandoval](sandovalangel10@hotmail.com)
 - [Github Profile](https://github.com/angel351)
