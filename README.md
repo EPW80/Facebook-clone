@@ -3,6 +3,8 @@
 This project is a social media app where users can share their thoughts as well as images with other users. 
 
 - #### Live Demo [here](https://gql-client-epw.herokuapp.com/profile)
+- #### Live Demo [here](https://gql-client-angel.herokuapp.com/)
+- #### Live Demo [here](https://gql-client-kalo.herokuapp.com/)
 
   - Test User Credentials
     - Click on **`Demo Login`** for Testing
