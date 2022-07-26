@@ -1,13 +1,13 @@
 # Interactive MERN SPA Project
 
-This project is a social media app where users can share their thoughts as well as images with other users. 
+This project is a social media app where users can share their thoughts as well as images with other users. Users are able to create, update, and delete posts. This application uses Graphql, Mongo, Express, React, and Node for a true realtime web application. Frontend uses latest Hooks from React, React Router and Apollo Client for performing Queries, Mutations and Subscriptions. This Project also utilizes React Hooks including Context API to achieve Redux like architecture.
 
-- #### Live Demo [here](https://gql-client-epw.herokuapp.com/profile)
-- #### Live Demo [here](https://gql-client-angel.herokuapp.com/)
-- #### Live Demo [here](https://gql-client-kalo.herokuapp.com/)
+- #### Live Demo from EPW [here](https://gql-client-epw.herokuapp.com/profile)
+- #### Live Demo from angel351 [here](https://gql-client-angel.herokuapp.com/)
+- #### Live Demo from Anchoviess [here](https://gql-client-kalo.herokuapp.com/)
 
   - Test User Credentials
-    - Click on **`Demo Login`** for Testing
+    - Click on **`Login`** for Testing
 
 - #### Github Repository [link](https://github.com/EPW80/Interactive-MERN-SPA-Project)
 
@@ -45,7 +45,6 @@ This project is a social media app where users can share their thoughts as well 
 
 ---
 
-
 ## Collaborators
 
 Erik Williams
@@ -56,10 +55,10 @@ Angel Sandoval
 
 Please feel free to contact me if you need any further information:
 
-- [Email](erikparrawilliams@gmail.com)
+- [Erik Williams](erikparrawilliams@gmail.com)
 - [Github Profile](https://github.com/EPW80)
     <br>
-- [Email](erikparrawilliams@gmail.com)
+- [Anthony Ledesma](anthonyledesma12@yahoo.com)
 - [Github Profile](https://github.com/Anchoviess)
     <br>
 - [Email](sandovalangel10@hotmail.com)
