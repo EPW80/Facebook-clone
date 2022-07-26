@@ -2,9 +2,9 @@
 
 This project is a social media app where users can share their thoughts as well as images with other users. Users are able to create, update, and delete posts. This application uses Graphql, Mongo, Express, React, and Node for a true realtime web application. Frontend uses latest Hooks from React, React Router and Apollo Client for performing Queries, Mutations and Subscriptions. This Project also utilizes React Hooks including Context API to achieve Redux like architecture.
 
-- #### Deployment from EPW80 [here](https://gql-client-epw.herokuapp.com/profile)
-- #### Deployment from angel351 [here](https://gql-client-angel.herokuapp.com/)
-- #### Deployment from Anchoviess [here](https://gql-client-kalo.herokuapp.com/)
+- #### Heroku Deployment from EPW80 [here](https://gql-client-epw.herokuapp.com/profile)
+- #### Heroku Deployment from angel351 [here](https://gql-client-angel.herokuapp.com/)
+- #### Heroku Deployment from Anchoviess [here](https://gql-client-kalo.herokuapp.com/)
 
 - Test User Credentials
     - Click on **`Login`** for Testing
