@@ -95,7 +95,7 @@ const Post = () => {
                 ></textarea>
             </div>
 
-            <button className="btn btn-primary" type="submit" disabled={loading || !content}>
+            <button className="btn btn-light bg-danger" type="submit" disabled={loading || !content}>
                 Post
             </button>
         </form>
@@ -103,7 +103,7 @@ const Post = () => {
 
     return (
         <div className="container p-5">
-            {loading ? <h4 className="text-danger">Loading...</h4> : <h4>Create</h4>}
+            {loading ? <h4 className="text">Loading...</h4> : <h4>Create</h4>}
 
             <FileUpload
                 values={values}

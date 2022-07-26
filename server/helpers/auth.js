@@ -4,7 +4,6 @@ var serviceAccount = require('../config/fbServiceAccountKey.json');
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
-    // databaseURL: 'https://gqlreactnode99.firebaseio.com'
 });
 
 exports.authCheck = async (req) => {

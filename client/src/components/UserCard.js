@@ -9,7 +9,7 @@ const UserCard = ({ user }) => {
             <div className="card-body">
                 <Image image={images[0]} />
                 <Link to={`/user/${username}`}>
-                    <h4 className="text-primary">@{username}</h4>
+                    <h4 className="text-danger">@{username}</h4>
                 </Link>
                 <hr />
                 <small>{about}</small>

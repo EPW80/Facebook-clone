@@ -1,14 +1,14 @@
 import * as firebase from 'firebase';
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: 'AIzaSyA5EkxSPBgCm_K3hhHnZF1GyAFIXaSmYH4',
-  authDomain: 'gqlreactnode99.firebaseapp.com',
-  // databaseURL: 'https://gqlreactnode99.firebaseio.com',
-  projectId: 'gqlreactnode99',
-  storageBucket: 'gqlreactnode99.appspot.com',
-  // messagingSenderId: '985266742688',
-  appId: '1:985266742688:web:f6f59bf21efd2add3c70c5',
-  measurementId: 'G-MTHN9B9VT9'
+  apiKey: 'AIzaSyBg-aVzN6YMf-CYWlG67RuX883CZxSpLQ0',
+  authDomain: 'gqlreactnode420.firebaseapp.com',
+  // databaseURL: 'https://gqlreactnode420.firebaseio.com',
+  projectId: 'gqlreactnode420',
+  storageBucket: 'gqlreactnode420.appspot.com',
+  // messagingSenderId: '730125371691',
+  appId: '1:730125371691:web:2a94f8e10e949ae6e25d6e',
+  measurementId: 'G-435QV1G927'
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);

@@ -1,7 +1,10 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": "16.x",
+    "npm": "6.x"
+  },
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -24,5 +27,7 @@
     "mongoose": "^5.9.7",
     "nodemon": "^2.0.2",
     "shortid": "^2.2.15"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }

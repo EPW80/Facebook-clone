@@ -53,7 +53,7 @@ const UserProfile = ({ handleSubmit, handleChange, username, name, email, about,
             />
         </div>
 
-        <button className="btn btn-primary" type="submit" disabled={!email || loading}>
+        <button className="btn btn-light bg-danger" type="submit" disabled={!email || loading}>
             Submit
         </button>
     </form>

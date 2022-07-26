@@ -62,7 +62,7 @@ const Profile = () => {
     };
 
     return (
-        <div className="container p-5">
+        <div className="container p-5 text-danger">
             <div className="row">
                 <div className="col-md-12 pb-3">
                     {loading ? <h4 className="text-danger">Loading...</h4> : <h4>Profile</h4>}

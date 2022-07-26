@@ -39,7 +39,7 @@ const AuthForm = ({
             </div>
         )}
 
-        <button className="btn btn-raised btn-primary" disabled={loading}>
+        <button className="btn btn-light bg-danger" disabled={loading}>
             Submit
         </button>
     </form>

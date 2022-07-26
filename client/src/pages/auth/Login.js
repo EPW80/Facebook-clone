@@ -10,8 +10,8 @@ import { USER_CREATE } from '../../graphql/mutations';
 
 const Login = () => {
     const { dispatch } = useContext(AuthContext);
-    const [email, setEmail] = useState('gqlreactnode@gmail.com');
-    const [password, setPassword] = useState('gggggg');
+    const [email, setEmail] = useState('sandovalangel10@hotmail.com');
+    const [password, setPassword] = useState('123456');
     const [loading, setLoading] = useState(false);
 
     let history = useHistory();
@@ -59,7 +59,7 @@ const Login = () => {
     };
 
     return (
-        <div className="contianer p-5">
+        <div className="contianer p-5 text-danger">
             {loading ? <h4 className="text-danger">Loading...</h4> : <h4>Login</h4>}
             <button onClick={googleLogin} className="btn btn-raised btn-danger mt-5">
                 Login with Google

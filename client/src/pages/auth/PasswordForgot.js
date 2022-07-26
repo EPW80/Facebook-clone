@@ -30,7 +30,7 @@ const PasswordForgot = () => {
     };
 
     return (
-        <div className="contianer p-5">
+        <div className="container p-5">
             {loading ? <h4 className="text-danger">Loading...</h4> : <h4>Forgot Password </h4>}
 
             <AuthForm email={email} setEmail={setEmail} loading={loading} handleSubmit={handleSubmit} />

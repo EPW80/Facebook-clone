@@ -67,7 +67,7 @@ const PostUpdate = () => {
                 ></textarea>
             </div>
 
-            <button className="btn btn-primary" type="submit" disabled={loading || !content}>
+            <button className="btn bg-danger text-white" type="submit" disabled={loading || !content}>
                 Post
             </button>
         </form>

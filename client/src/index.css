@@ -1,3 +1,7 @@
 .activePagination {
-    background-color: green;
+    background-color: rgb(219, 104, 104);
+}
+
+body {
+    background-color: rgb(188, 201, 205);
 }

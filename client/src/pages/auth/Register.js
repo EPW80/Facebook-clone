@@ -4,7 +4,7 @@ import { toast } from 'react-toastify';
 import AuthForm from '../../components/forms/AuthForm';
 
 const Register = () => {
-    const [email, setEmail] = useState('gqlreactnode@gmail.com');
+    const [email, setEmail] = useState('sandovalangel10@hotmail.com');
     const [loading, setLoading] = useState(false);
 
     const handleSubmit = async (e) => {
@@ -26,7 +26,7 @@ const Register = () => {
     };
 
     return (
-        <div className="contianer p-5">
+        <div className="container p-5 text-danger">
             {loading ? <h4 className="text-danger">Loading...</h4> : <h4>Register</h4>}
             <AuthForm email={email} loading={loading} setEmail={setEmail} handleSubmit={handleSubmit} />
         </div>

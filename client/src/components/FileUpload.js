@@ -102,7 +102,7 @@ const FileUpload = ({ setValues, setLoading, values, loading, singleUpload = fal
         <div className="row">
             <div className="col-md-3">
                 <div className="form-group">
-                    <label className="btn btn-primary">
+                    <label className="btn btn-light bg-danger">
                         Upload Image
                         <input
                             hidden

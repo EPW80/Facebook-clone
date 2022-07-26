@@ -17,17 +17,17 @@ const PrivateRoute = ({ ...rest }) => {
         <nav>
             <ul className="nav flex-column">
                 <li className="nav-item">
-                    <Link className="nav-link" to="/profile">
+                    <Link className="nav-link text-light bg-danger" to="/profile">
                         Profile
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link" to="/password/update">
+                    <Link className="nav-link text-light bg-danger" to="/password/update">
                         Password
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link" to="/post/create">
+                    <Link className="nav-link text-light bg-danger" to="/post/create">
                         Post
                     </Link>
                 </li>
@@ -38,7 +38,7 @@ const PrivateRoute = ({ ...rest }) => {
     const renderContent = () => (
         <div className="container-fluid pt-5">
             <div className="row">
-                <div className="col-md-3">{navLinks()}</div>
+                <div className="col-md-2">{navLinks()}</div>
                 <div className="col-md-9">
                     <Route {...rest} />
                 </div>

@@ -20,7 +20,7 @@ const Nav = () => {
     };
 
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-danger text-light">
             <Link className="navbar-brand" to="/">
                 Navbar
             </Link>
@@ -74,7 +74,7 @@ const Nav = () => {
                         </li>
                     )}
                 </ul>
-                <div className="ml-auto">
+                <div className="ml-auto ">
                     <Search />
                 </div>
             </div>

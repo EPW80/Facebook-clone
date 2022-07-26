@@ -11,18 +11,18 @@ const PostCard = ({ post, handleDelete = (f) => f, showUpdateButton = false, sho
                 <Link to={`/post/${post._id}`}>
                     <Image image={image} />
                 </Link>
-                <h4 className="text-primary">@{post.postedBy.username}</h4>
+                <h4 className="text-danger">@{post.postedBy.username}</h4>
                 <hr />
                 <small>{content}</small>
                 <br />
                 <br />
                 {showDeleteButton && (
-                    <button onClick={() => handleDelete(post._id)} className="btn m-2 btn-danger">
+                    <button onClick={() => handleDelete(post._id)} className="btn m-2 btn-danger btn-outline">
                         Delete
                     </button>
                 )}
                 {showUpdateButton && (
-                    <button onClick={() => history.push(`/post/update/${post._id}`)} className="btn m-2 btn-warning">
+                    <button onClick={() => history.push(`/post/update/${post._id}`)} className="btn m-2 btn-primary btn-outline">
                         Update
                     </button>
                 )}

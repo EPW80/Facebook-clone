@@ -90,7 +90,7 @@ const Home = () => {
   const updateUserName = () => {
     dispatch({
       type: 'LOGGED_IN_USER',
-      payload: 'Erik Williams'
+      payload: 'Angel Sandoval'
     });
   };
 
@@ -108,12 +108,6 @@ const Home = () => {
       </div>
 
       <PostPagination page={page} setPage={setPage} postCount={postCount} />
-      <hr />
-      {JSON.stringify(newPost)}
-      <hr />
-      {JSON.stringify(state.user)}
-      <hr />
-      {JSON.stringify(history)}
     </div>
   );
 };
