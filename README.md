@@ -55,11 +55,8 @@ Angel Sandoval
 
 Please feel free to contact me if you need any further information:
 
-- [Erik Williams](erikparrawilliams@gmail.com)
-- [Github Profile](https://github.com/EPW80)
+- [Erik Williams](https://github.com/EPW80)
     <br>
-- [Anthony Ledesma](anthonyledesma12@yahoo.com)
-- [Github Profile](https://github.com/Anchoviess)
+- [Anthony Ledesma](https://github.com/Anchoviess)
     <br>
-- [Angel Sandoval](sandovalangel10@hotmail.com)
-- [Github Profile](https://github.com/angel351)
+- [Angel Sandoval](https://github.com/angel351)
