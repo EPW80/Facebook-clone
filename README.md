@@ -2,11 +2,6 @@
 
 This project is a social media app where users can share their thoughts as well as images with other users. Users are able to create, update, and delete posts. This application uses Graphql, Mongo, Express, React, and Node for a true realtime web application. Frontend uses latest Hooks from React, React Router and Apollo Client for performing Queries, Mutations and Subscriptions. This Project also utilizes React Hooks including Context API to achieve Redux like architecture.
 
-## Demo
-
-<!-- ![]() -->
-<img src="./client/public/demo.gif" width="600" height="300">
-
 ## Built
 
 1. `Node JS Express Framework` is used as a building Backend part of this Website.
@@ -31,6 +26,11 @@ pnm install
 npm run server // to start only Backend server
 npm run Client // to start React Development server only
 ```
+
+## Demo
+
+<!-- ![]() -->
+<img src="./client/public/demo.gif" width="600" height="300">
 
 ## Deployment
 
